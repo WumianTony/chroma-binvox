@@ -1,0 +1,1 @@
+# binvox: compiled in Windows10, VS2019

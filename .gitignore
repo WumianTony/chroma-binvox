@@ -1,0 +1,39 @@
+# Compiled source #
+*.dll
+*.exe
+*.o
+*.so
+*.class
+*.com
+*.out
+*.aux
+
+# Packages #
+*.tar
+*.zip
+*.dmg
+*.iso
+*.gz
+
+# Logs #
+*.log
+
+# OS generated files #
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+*.opendb
+#Teapot test scenes
+teapotScenes
+test
+<<<<<<< HEAD
+
+#Outputs
+*.binvox
+
+# Binvox
+.binvox
+**/build/*
+**/data/*
+
